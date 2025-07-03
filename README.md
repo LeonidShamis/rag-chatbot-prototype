@@ -9,7 +9,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF d
 - 🤖 **AI Chat Interface**: Natural language conversations with your documents
 - 📚 **Source Citations**: See which documents informed each response
 - 💾 **Persistent Storage**: Vector database persists between sessions
-- ⚙️ **Configurable Settings**: Customize models, chunking, and retrieval parameters
+- ⚙️ **Configurable Settings**: Customise models, chunking, and retrieval parameters
 
 ## Quick Start
 
