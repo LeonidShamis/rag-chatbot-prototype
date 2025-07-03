@@ -155,7 +155,6 @@ MAX_TOKENS={settings.max_tokens}
     st.subheader("ℹ️ System Information")
     
     import sys
-    import streamlit as st
     
     system_info = {
         "Python Version": f"{sys.version_info.major}.{sys.version_info.minor}.{sys.version_info.micro}",
